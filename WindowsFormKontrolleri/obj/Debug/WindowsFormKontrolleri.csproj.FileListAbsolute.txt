@@ -1,0 +1,15 @@
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\bin\Debug\WindowsFormKontrolleri.exe.config
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\bin\Debug\WindowsFormKontrolleri.exe
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\bin\Debug\WindowsFormKontrolleri.pdb
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.Properties.Resources.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.csproj.GenerateResource.cache
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.exe
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.pdb
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.Form1.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.LabelKontrolu.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.ButtonKontrolu.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.TextBoxKontrolu.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.MaskedTextBoxKontrolu.resources
+C:\Users\303\source\repos\WindowsFormKontrolleri\WindowsFormKontrolleri\obj\Debug\WindowsFormKontrolleri.TakvimKontrolleri.resources

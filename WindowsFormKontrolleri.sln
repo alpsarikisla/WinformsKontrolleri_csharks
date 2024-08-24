@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormKontrolleri", "WindowsFormKontrolleri\WindowsFormKontrolleri.csproj", "{E2163B90-9B2E-4F6A-9E2B-A8D346A69FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2163B90-9B2E-4F6A-9E2B-A8D346A69FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2163B90-9B2E-4F6A-9E2B-A8D346A69FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2163B90-9B2E-4F6A-9E2B-A8D346A69FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2163B90-9B2E-4F6A-9E2B-A8D346A69FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F50623-E2A3-46B0-A928-D763D181DC8C}
+	EndGlobalSection
+EndGlobal
